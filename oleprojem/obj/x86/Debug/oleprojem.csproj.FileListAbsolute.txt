@@ -1,0 +1,36 @@
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\bin\x86\Debug\oleprojem.exe.config
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\Interop.MapInfo.dll
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csproj.ResolveComReference.cache
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\bin\x86\Debug\oleprojem.exe
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\bin\x86\Debug\oleprojem.pdb
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.bilgi.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.cizgiCiz.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.oleprojem.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.frminfoclick.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.iller.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.region.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.noktaAt.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.Properties.Resources.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csproj.GenerateResource.Cache
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.exe
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.pdb
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csprojResolveAssemblyReference.cache
+C:\Users\ZEHRA\Desktop\oleprojem\oleprojem\bin\x86\Debug\oleprojem.exe.config
+C:\Users\ZEHRA\Desktop\oleprojem\oleprojem\obj\x86\Debug\Interop.MapInfo.dll
+C:\Users\ZEHRA\Desktop\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csproj.ResolveComReference.cache
+C:\Users\ZEHRA\Desktop\oleprojem\oleprojem\obj\x86\Debug\oleprojem.exe
+C:\Users\ZEHRA\Desktop\oleprojem\oleprojem\obj\x86\Debug\oleprojem.pdb
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csprojAssemblyReference.cache
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csproj.ResolveComReference.cache
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.bilgi.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.cizgiCiz.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.oleprojem.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.frminfoclick.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.iller.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.region.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.noktaAt.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.Properties.Resources.resources
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csproj.GenerateResource.cache
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.exe
+C:\Users\90507\Desktop\ZELİŞŞŞ\oleprojem\oleprojem\obj\x86\Debug\oleprojem.pdb

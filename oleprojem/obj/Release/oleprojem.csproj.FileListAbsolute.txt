@@ -1,0 +1,12 @@
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\bin\Release\oleprojem.exe.config
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\Interop.MapInfo.dll
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.csproj.ResolveComReference.cache
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.bilgi.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.cizgiCiz.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.oleprojem.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.frminfoclick.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.iller.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.region.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.noktaAt.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.Properties.Resources.resources
+C:\Users\ZEHRA\Documents\Visual Studio 2013\Projects\oleprojem\oleprojem\obj\Release\oleprojem.csproj.GenerateResource.Cache

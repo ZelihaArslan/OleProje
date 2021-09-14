@@ -1,0 +1,59 @@
+!Workspace
+!Version  950
+!Charset WindowsTurkish
+Open Table "C:\Users\ZEHRA\Desktop\Basarsoft Test Ýþlemleri2\2\MiDataTr\Bolum_6\Iller" As Iller Interactive
+Open Table "C:\Users\ZEHRA\Desktop\Basarsoft Test Ýþlemleri2\2\MiDataTr\Bolum_6\Yerlesim" As Yerlesim Interactive
+Open Table "C:\Users\ZEHRA\Desktop\Basarsoft Test Ýþlemleri2\Default MI\OLE\data\ilceler" As ilceler Interactive
+Open Table "C:\Users\ZEHRA\Desktop\Basarsoft Test Ýþlemleri2\Default MI\DefaultMI\bin\Debug\Data\line" As line Interactive
+Open Table "C:\Users\ZEHRA\Desktop\Basarsoft Test Ýþlemleri2\Default MI\DefaultMI\bin\Debug\Data\point" As point Interactive
+Open Table "C:\Users\ZEHRA\Desktop\Basarsoft Test Ýþlemleri2\Default MI\DefaultMI\bin\Debug\Data\region" As region Interactive
+Set Window Info Title "Bilgi Penceresi"
+Map From point,Yerlesim,line,ilceler,Iller 
+  Position (0.0520833,0.0520833) Units "in"
+  Width 7.03125 Units "in" Height 3.375 Units "in" 
+Set Window FrontWindow() ScrollBars Off Autoscroll On Enhanced On Smooth Image High
+Set Map
+  CoordSys Earth Projection 3, 28, "m", 36, 25, 37.5, 40.5, 1003827.11, -1183453.0800000001
+  Center (997899.543,399319.994)
+  Zoom 1573.474157 Units "km"
+  Preserve Zoom Display Zoom
+  Distance Units "km" Area Units "sq km" XY Units "m"
+Set Map
+  Layer 1
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With point
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 2
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Right Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With IL_ADI
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 3
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line Arrow Position Above Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With line
+      Parallel On Auto Off Overlap Off Duplicates Off Offset 2
+      Visibility On
+  Layer 4
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line None Position Center Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With ILADI
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+  Layer 5
+    Display Graphic
+    Global Pen (1,2,0) Brush (2,16777215,16777215) Symbol (35,0,12) Line (1,2,0) Font ("Tahoma",0,9,0)
+    Label Line None Position Center Font ("Tahoma",0,9,0) Pen (1,2,0) 
+      With IL_ADI
+      Parallel On Auto Off Overlap Off Duplicates On Offset 2
+      Visibility On
+Set Window FrontWindow() Printer
+ Name "Foxit Reader PDF Printer" Orientation Portrait Copies 1
+ Papersize 9
